@@ -1,5 +1,7 @@
 import javax.swing.JFrame;
 
+// Создаем новый класс и задаем отображение
+
 public class TC {
 	public static void main(String[] args){
 		TemperatureConverter Tc = new TemperatureConverter("Конвертор температуры");
